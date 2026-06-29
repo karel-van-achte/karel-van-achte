@@ -1,6 +1,6 @@
 # Karel Van Achte
 
-Founder of [Evalgist](https://evalgist.ai). Building small-batch AI-native tools through [Pixelbrew Studio](https://pixelbrew.studio).
+Co-founder & CTO at [Evalgist](https://evalgist.ai/about). Building small-batch AI-native tools through [Pixelbrew Studio](https://pixelbrew.studio).
 
 I work on evidence-grounded AI evaluation, privacy-sensitive document workflows, and the developer tooling around small product teams that need to move carefully without moving slowly.
 
