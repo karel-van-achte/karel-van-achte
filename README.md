@@ -14,4 +14,4 @@ I work on evidence-grounded AI evaluation, privacy-sensitive document workflows,
 
 ## Current Focus
 
-Evalgist builds defensible evaluation tools for document-heavy professional decisions. The product code is private; public repositories here are small clean-room tools and notes that reflect the working style without publishing company-owned implementation details.
+Evalgist builds evidence-grounded evaluation tools for document-heavy decisions. The public repos here are clean-room tools that reflect the work without exposing private product code.
