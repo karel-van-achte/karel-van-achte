@@ -1,0 +1,17 @@
+# Karel Van Achte
+
+Founder of [Evalgist](https://evalgist.ai). Building small-batch AI-native tools through [Pixelbrew Studio](https://pixelbrew.studio).
+
+I work on evidence-grounded AI evaluation, privacy-sensitive document workflows, and the developer tooling around small product teams that need to move carefully without moving slowly.
+
+## Public Work
+
+- [Pixelbrew Studio](https://github.com/pixelbrew-studio) — independent lab for small, useful tools, experiments, and original software.
+- [pb-suite](https://github.com/pixelbrew-studio/pb-suite) — local command suite for disciplined AI-assisted product engineering.
+- [quote-locator](https://github.com/pixelbrew-studio/quote-locator) — find claimed quotes inside source text with exact, normalized, and fuzzy matching.
+- [eval-metrics-ts](https://github.com/pixelbrew-studio/eval-metrics-ts) — tiny TypeScript metrics for classification and ranking evaluations.
+
+## Current Focus
+
+Evalgist builds defensible evaluation tools for document-heavy professional decisions. The product code is private; public repositories here are small clean-room tools and notes that reflect the working style without publishing company-owned implementation details.
+
